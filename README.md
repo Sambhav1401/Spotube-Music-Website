@@ -76,8 +76,3 @@ This music player allows users to browse and play songs from different folders (
 ---
 
 
-        width: 90%;
-        margin: 10px auto;
-    }
-    /* Adjust font sizes, button sizes, etc. */
-}
