@@ -76,3 +76,10 @@ This music player allows users to browse and play songs from different folders (
 ---
 
 
+## 🖼️ Screenshots
+<img width="1916" height="927" alt="Screenshot 2025-07-28 152941" src="https://github.com/user-attachments/assets/efb8d615-0f5b-4b28-bf49-9a7bd31a3f24" />
+
+<img width="1392" height="830" alt="Screenshot 2025-07-28 152951" src="https://github.com/user-attachments/assets/e7acdae1-f010-4aae-a858-7a21dbdb97bf" />
+
+<img width="1439" height="96" alt="Screenshot 2025-07-28 153012" src="https://github.com/user-attachments/assets/7f9295ca-498a-49f2-aaee-2a5cc3e4f289" />
+<img width="422" height="927" alt="Screenshot 2025-07-28 153025" src="https://github.com/user-attachments/assets/bc1b630b-78f7-4e09-a9a7-79ee8795ef3b" />
